@@ -1,4 +1,4 @@
-# Game Design 2 Starting Project
-This is the starting project for Game Design 2 at Wichita State University. It is intended to include everything that was completed in Game Design 1.
+The FMODStudio plugin can be placed in the Engine/Plugins directory, or in your game's GameName/Plugins directory.
 
-[Notes on FMOD integration](https://gist.github.com/brianisbrilliant/b9a15cb337bbb82208a18a5220611b6d).
+Please see this page for more instructions:
+    https://fmod.com/docs/2.02/unreal
